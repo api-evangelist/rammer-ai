@@ -64,13 +64,46 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Symbl.ai is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by techstars) and added to the network as a stub for full-pipeline profiling.
+Symbl.ai provides AI-powered conversation intelligence APIs that enable developers to add real-time speech-to-text, topic detection, sentiment analysis, and actionable insights to voice, video, and messaging applications. Their platform processes live and recorded audio, delivering structured data such as speaker identification, intent extraction, and summary generation, helping businesses automate note-taking, improve customer experiences, and build intelligent communication tools. The company is backed by Techstars and positioned in the conversational AI market.
 
-**Areas:** Company
+**Areas:** Company · AI · Conversation · Speech · NLP · Real-time · Communication
 
 ## Symbl.ai on APIs.io
 
 Everything profiled for Symbl.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rammer-ai/](https://apis.io/providers/rammer-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Symbl Conversation API](https://apis.io/apis/rammer-ai/symbl-conversation-api/) — Symbl.ai provides AI‑powered conversation intelligence APIs for real‑time speech‑to‑text, topic detection, sentiment analysis, and actionable insights.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rammer Ai Authentication](https://apis.io/security/rammer-ai/rammer-ai-authentication/)
+- [Rammer Ai Domain Security](https://apis.io/security/rammer-ai/rammer-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Rammer Ai Scopes](https://apis.io/scopes/rammer-ai/rammer-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Rammer Ai Plans Pricing](https://apis.io/plans/rammer-ai/rammer-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Rammer Ai Rate Limits](https://apis.io/rate-limits/rammer-ai/rammer-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -80,7 +113,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/rammer-ai/](https://apis.io/providers/rammer-ai/).
+**Kin Score 6.9** — minimal · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 6.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 8.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 14.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rammer-ai/](https://apis.io/providers/rammer-ai/).
 
 ## How this profile is made
 
